@@ -5,3 +5,5 @@
 para ejecutar el sistema, debes poner:
 
 ''app install react'''
+
+sistema de registro modificado
